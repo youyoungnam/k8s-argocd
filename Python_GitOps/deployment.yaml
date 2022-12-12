@@ -21,7 +21,7 @@ spec:
         - containerPort: 5000
         livenessProbe:
           httpGet:
-            path: /
+            path: /country
             port: 5000
           initialDelaySeconds: 5
           periodSeconds: 5
