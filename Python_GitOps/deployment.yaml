@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: y-flask
-        image: dbdudska113/flask_y
+        image: dbdudska113/flask_y:v2
         ports:
         - containerPort: 5000
       imagePullSecrets:
