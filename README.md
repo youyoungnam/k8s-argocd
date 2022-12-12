@@ -16,3 +16,12 @@
 
 
 ![image](https://user-images.githubusercontent.com/60678531/206977793-ade3e7ca-c63a-4f36-a51a-ccc880eae674.png)
+
+
+
+### Flask Test Server
+![image](https://user-images.githubusercontent.com/60678531/206978752-af6199b0-b4f7-4ae8-bb84-764d09c557d6.png)
+
+
+### After develop function and using  Argo CD sync and deployment flask Application 
+![image](https://user-images.githubusercontent.com/60678531/206978917-d125f674-84be-46ac-9b43-876631484bd3.png)
