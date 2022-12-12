@@ -1,6 +1,8 @@
 
 
 ## ArogoCD k8s deployment pipeline 
+![image](https://user-images.githubusercontent.com/60678531/206982687-6a626386-e72a-4882-b865-97a2c854dd5e.png)
+
  - python application flask test server deployment
  - first flask Dockerfile build and image push docker hub
  - second deploy argo CD in cluster
